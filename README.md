@@ -1,4 +1,4 @@
-# 15 years old **Konjac** wants to learn OI（十五岁**蒟蒻**想学OI）#
+# 15 years old **Konjac** wants to learn OI（十五岁**蒟蒻**想学OI）
 > 任何一个伟大的目标，都有一个微不足道的开始。  
 > —— 洛谷 新手村
 
@@ -14,14 +14,14 @@
 （要是有人抄我的解法请给我发个 issue ，我马上把你的名字加进感谢名单）
 
 ## Contact ##
-洛谷：[@Flandia_Yingman][Luogu]  
-Github：[@the Imitator][Github]  
-QQ：[@1793907272][QQ]  
-(这样看起来就长了很多）  
+洛谷：**[@Flandia_Yingman][Luogu]**  
+Github：**[@the Imitator][Github]**  
+QQ：**<a href="tencent://QQInterLive/?Cmd=2&Uin=1793907272">@1793907272</a>**  
+(这样看起来就长♂了很多）  
 
-[Luogu]: https://www.luogu.org/space/show?uid=97437
+[Luogu]: "https://www.luogu.org/space/show?uid=97437"
 [Github]: https://github.com/1793907272
-[QQ]: tencent://QQInterLive/?Cmd=2&Uin=1793907272
+
 
 ## Thanks ##
 * *`Entropy Increaser`* //当 EI 稍微有点累了，他就会把自己放进代码里执行，然后去休息
