@@ -16,10 +16,10 @@
 ## Contact ##
 洛谷：**[@Flandia_Yingman][Luogu]**  
 Github：**[@the Imitator][Github]**  
-QQ：**<a href="tencent://QQInterLive/?Cmd=2&Uin=1793907272">@1793907272</a>**  
+QQ：<strong><a href="tencent://QQInterLive/?Cmd=2&Uin=1793907272">@1793907272</a></strong>  
 (这样看起来就长♂了很多）  
 
-[Luogu]: "https://www.luogu.org/space/show?uid=97437"
+[Luogu]: https://www.luogu.org/space/show?uid=97437
 [Github]: https://github.com/1793907272
 
 
