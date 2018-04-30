@@ -6,8 +6,11 @@
 记录了我这个**小蒟蒻**的刷题过程。  
 
 ## Status ##
+规范：**[Specification][Specification]**  
 好累啊，后面的题越来越难。  
 写个 `README.md` 也这么费劲，为什么别人能写那么长啊。
+
+[Specification]: /Specification.md
 
 ## License ##
 这玩意没有什么 *License* ，随便抄。可是没有人看得上我的题，没有人抄。  
