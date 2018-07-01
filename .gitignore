@@ -2,4 +2,6 @@
 *.exe
 .vscode
 .vscode/*
+*.code-workspace
 tempCodeRunnerFile.cpp
+CMakeLists.txt
