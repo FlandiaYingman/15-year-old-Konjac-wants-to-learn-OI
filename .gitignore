@@ -1,7 +1,13 @@
+# CLion files.
+.idea/
 
-*.exe
-.vscode
-.vscode/*
-*.code-workspace
-tempCodeRunnerFile.cpp
+# VS Code files.
+.vscode/
+
+# Cmake files.
+cmake-build-debug/
 CMakeLists.txt
+
+# C++
+*.exe
+*.obj
