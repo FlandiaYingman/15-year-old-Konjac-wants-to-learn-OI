@@ -43,12 +43,11 @@
 
 ## Contact ##
 洛谷：**[@Flandia_Yingman][Luogu]**  
-Github：**[@the Imitator][Github]**  
-QQ：**@1793907272** （我尽力了，这个东西怎么都蓝不起来）  
+Github：**[@FlandiaYingman][Github]**  
 (这样看起来就长♂了很多）  
 
 [Luogu]: https://www.luogu.org/space/show?uid=97437
-[Github]: https://github.com/1793907272
+[Github]: https://github.com/FlandiaYingman
 
 
 ## Thanks ##
