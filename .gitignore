@@ -1,12 +1,5 @@
-# CLion files.
-.idea/
-
-# VS Code files.
+# VS Code
 .vscode/
-
-# Cmake files.
-cmake-build-debug/
-CMakeLists.txt
 
 # C++
 *.exe
